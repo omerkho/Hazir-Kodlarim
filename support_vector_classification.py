@@ -39,3 +39,4 @@ cm = confusion_matrix(y_test,y_pred)
 print(cm)
 
 # kernel = rbf olunca 3 başarı, linear olunca 1 başarı var.
+# rbf'de kernel trick var.
