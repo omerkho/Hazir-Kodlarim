@@ -3,6 +3,9 @@
 ## Sample alıp overview görmek için :
 data.sample(10)
 
+## first 5 row'unu verir dataset'in :
+data.head()
+
 ## Row ve Column sayısı öğrenmek için :
 data.shape
 
